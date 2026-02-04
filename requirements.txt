@@ -1,5 +1,5 @@
 Flask==0.12   # vulnerável
 requests==2.6.0  # vulnerável
-pyyaml==3.10  # vulnerável
+pyyaml==5.4  # vulnerável
 jinja2==2.4   # vulnerável
 werkzeug==0.10 # vulnerável
