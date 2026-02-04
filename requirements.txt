@@ -1,4 +1,4 @@
-Flask==0.12   # vulnerável
+Flask==2.2.5   # vulnerável
 requests==2.6.0  # vulnerável
 pyyaml==3.10  # vulnerável
 jinja2==2.4   # vulnerável
